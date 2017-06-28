@@ -4,7 +4,8 @@ Opportunity-3000
 LED Matrix Display with Keyboard.
 Under Construction!!!
 
-![Demo Shot](/screenshot.jpg)
+![The Box](/screenshot.jpg)
+![PCB](/pcb_screenshot.jpg)
 
 Project Parts
 ------------
